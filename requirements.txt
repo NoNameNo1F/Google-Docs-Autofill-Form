@@ -1,0 +1,5 @@
+python-dotenv==1.0.0
+PyJWT==2.8.0
+selenium==4.19.0
+numpy==1.26.4
+python-dotenv==1.0.0
